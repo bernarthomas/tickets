@@ -1,6 +1,12 @@
 {
-  "name": "tickets",
-  "type": "project",
+  "name": "bernarthomas/tickets",
+  "type": "package",
+  "authors": [
+    {
+      "name": "Thomas",
+      "email": "bernarthomas@free.fr"
+    }
+  ],
   "license": "GPL-3.0 license",
   "minimum-stability": "stable",
   "prefer-stable": true,
