@@ -1,4 +1,5 @@
 {
+  "name": "tickets",
   "type": "project",
   "license": "GPL-3.0 license",
   "minimum-stability": "stable",
