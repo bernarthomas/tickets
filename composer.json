@@ -7,7 +7,7 @@
       "email": "bernarthomas@free.fr"
     }
   ],
-  "license": "GPL-3.0 license",
+  "license": "GPL-3.0+",
   "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
